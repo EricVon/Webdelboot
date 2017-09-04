@@ -1,0 +1,31 @@
+	h1{
+			color: rgba(0,200,100,0.8);
+			/*border-color: rgb(255,100,80);
+			border-width: 5px;
+			border-style: solid;*/
+
+			border: 5px solid rgb(255,100,80);
+		}
+
+
+		/*width
+		color
+		style*/
+
+
+	li {
+			color: green;
+		}
+
+	h4{
+			background: rgb(255,100,80);
+	}
+
+	body{
+		brackground: pink;
+		/* background: url(http://media.istockphoto.com/vectors/valentines-day-themed-wood-grain-pattern-with-hearts-vector-id527786923);
+
+		 background:-repeat: no-repeat;
+
+		background-size: cover; */
+	}
